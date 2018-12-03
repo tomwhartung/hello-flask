@@ -13,6 +13,13 @@
 ### gitignored/Site/hello_config.py
 
 #
+# We don't want to check in these cache files:
+#
+__pycache__
+
+#
+# Directory names I like to use for temporary files
+#
 downloads/
 tmp/
 unpack/
