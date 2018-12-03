@@ -1,0 +1,29 @@
+#
+#  Documentation is here: http://git-scm.com/docs/gitignore
+#  --------------------------------------------------------
+#
+#########################################################
+### #
+### # TYPICALLY WE DO NOT CHECK IN CONFIG FILES
+### # -----------------------------------------
+### # HOWEVER, this project is a starting point only, and
+### # will never be online - at least not for long.
+### #
+### gitignored/Site/RCS
+### gitignored/Site/hello_config.py
+
+#
+downloads/
+tmp/
+unpack/
+unzip/
+
+#
+#  Ignore netbeans work area and vim temporary files
+#
+/nbproject/
+*.swp
+.~lock.*
+.*~
+*~
+
