@@ -15,7 +15,7 @@ Usage:
 """
 
 import sys
-sys.path.insert(0, '/var/www/tomhartung.com/htdocs/tomhartung.com/Site')
+sys.path.insert(0, '/var/www/hello-flask/Site')
 
 #
 # Note:
